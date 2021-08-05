@@ -1,0 +1,14 @@
+com/macapp/ReactNativeFlipper.java
+ com.macapp.ReactNativeFlipper
+ com.macapp.ReactNativeFlipper$1
+ com.macapp.ReactNativeFlipper$2
+ com.macapp.ReactNativeFlipper$2$1
+com/macapp/MainApplication.java
+ com.macapp.MainApplication
+ com.macapp.MainApplication$1
+com/macapp/MainActivity.java
+ com.macapp.MainActivity
+com/macapp/BuildConfig.java
+ com.macapp.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

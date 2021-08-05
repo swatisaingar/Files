@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MacApp.iml" filepath="$PROJECT_DIR$/.idea/modules/MacApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1277188877/MacApp.@react-native-google-signin_google-signin.iml" filepath="$PROJECT_DIR$/.idea/modules/1277188877/MacApp.@react-native-google-signin_google-signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MacApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MacApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/992082281/MacApp.invertase_react-native-apple-authentication.iml" filepath="$PROJECT_DIR$/.idea/modules/992082281/MacApp.invertase_react-native-apple-authentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-154753205/MacApp.react-native-apple-authentication.iml" filepath="$PROJECT_DIR$/.idea/modules/-154753205/MacApp.react-native-apple-authentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/339871737/MacApp.react-native-community_checkbox.iml" filepath="$PROJECT_DIR$/.idea/modules/339871737/MacApp.react-native-community_checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1720732529/MacApp.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1720732529/MacApp.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1662332350/MacApp.react-native-fbsdk.iml" filepath="$PROJECT_DIR$/.idea/modules/1662332350/MacApp.react-native-fbsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-774194928/MacApp.react-native-fcm.iml" filepath="$PROJECT_DIR$/.idea/modules/-774194928/MacApp.react-native-fcm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1634869241/MacApp.react-native-firebase.iml" filepath="$PROJECT_DIR$/.idea/modules/-1634869241/MacApp.react-native-firebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1484671931/MacApp.react-native-firebase-push-notifications.iml" filepath="$PROJECT_DIR$/.idea/modules/1484671931/MacApp.react-native-firebase-push-notifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2044332311/MacApp.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-2044332311/MacApp.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-183061812/MacApp.react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/-183061812/MacApp.react-native-firebase_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/295831174/MacApp.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/295831174/MacApp.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1277188877/MacApp.react-native-google-signin_google-signin.iml" filepath="$PROJECT_DIR$/.idea/modules/1277188877/MacApp.react-native-google-signin_google-signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-324133930/MacApp.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-324133930/MacApp.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1477285231/MacApp.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1477285231/MacApp.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1420895303/MacApp.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1420895303/MacApp.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-230481326/MacApp.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-230481326/MacApp.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/437194512/MacApp.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/437194512/MacApp.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
